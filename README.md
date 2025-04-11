@@ -6,4 +6,4 @@ user inputs the day time = Morning
                            Evenings
                            Dinner
 this app also display a meal suggestion        
-A github link: https://github.com/josiane743/FOOD.git
+A github link: https://https://github.com/josiane743/osiane.git
